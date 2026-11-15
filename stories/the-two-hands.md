@@ -65,9 +65,9 @@ He believes he can defeat the Level 7 fighter in a single overwhelming exchange,
 
 The Level 7 fighter is a power-type combatant with exceptional willpower and a strong personal reason to win.
 
-In their first direct exchange, the Level 7 fighter breaks one of the Right Hand's arms.
+In their first direct exchange, the Right Hand uses one of his extraordinary bursts of power and breaks one of the **Level 7 fighter's arms**.
 
-**Estimated remaining fighting capacity: 75%.**
+This is an important demonstration of the Right Hand's hidden, borrowed power — but it does not end the fight.
 
 ## The four Level 5 fighters
 
@@ -85,9 +85,9 @@ The Level 7 fighter recovers enough to challenge him again.
 
 The Right Hand has little choice but to meet the attack head-on.
 
-In the second exchange, his leg is broken.
+In the second exchange, the Right Hand again has to use extraordinary power to survive the direct confrontation and breaks the **Level 7 fighter's leg**.
 
-**Estimated remaining fighting capacity: 50%.**
+The Level 7 fighter is severely injured, but not defeated. The injuries affect his own story after this event.
 
 The four Level 5 fighters resume their tactical attack.
 
@@ -223,8 +223,8 @@ The Right Hand's defeat is caused by a combination of:
 
 - Pride.
 - Tactical decisions.
-- Injury.
 - Being outnumbered.
+- The cost of repeatedly spending limited extraordinary power.
 - Misunderstanding his opponents.
 - Overestimating what one overwhelming attack can solve.
 
