@@ -20,6 +20,8 @@ The Left Hand increasingly develops the attitude of a worker who believes the bo
 
 Intelligence later suggests that the Left Hand has been accumulating power through corruption and hidden money.
 
+The truth is more complicated. His trusted Level 5 subordinate has secretly been using the Left Hand's name and reputation to accumulate corrupt money and resources of his own.
+
 ### The Right Hand
 
 The Right Hand believes he is superior precisely because he remains outwardly respectful to the King.
@@ -53,7 +55,9 @@ The attackers include:
 - **1 × Level 7 fighter**
 - **4 × Level 5 fighters**
 
-Hiring a Level 7 fighter is an extraordinary feat and suggests that someone has accumulated enormous resources and influence.
+One of the Level 5 fighters is the Left Hand's trusted man. The other three are hired mercenaries.
+
+Hiring a Level 7 fighter is an extraordinary feat and requires enormous resources. The corrupt subordinate secretly accumulates money and influence under the Left Hand's name in order to finance the operation.
 
 ### The Right Hand's first mistake
 
@@ -158,7 +162,13 @@ He never realised how deeply the Left Hand had come to resent him.
 
 Now, dying, he believes that the Left Hand worked extraordinarily hard to have him killed.
 
-This remains an important unresolved question: **Was the Left Hand truly responsible, or is the Right Hand's interpretation incomplete?**
+The Right Hand's interpretation is incomplete.
+
+The Left Hand may genuinely hate and resent him, particularly because of wounded pride, but he does not actually want the Right Hand murdered.
+
+The assassination attempt was initiated by the Left Hand's trusted subordinate. The subordinate has repeatedly heard the Left Hand express the wish that the Right Hand would "die" or otherwise disappear, taking expressions of anger and political frustration far more literally than intended.
+
+He acts on what he believes his master truly wants — while also using the operation and the Left Hand's name to serve his own agenda.
 
 # The last order
 
@@ -240,7 +250,8 @@ A conspiracy needs resources, networks and reasons — not merely a villain deci
 
 - Are Left Hand and Right Hand official titles, or informal names used by history?
 - What are their actual offices and responsibilities?
-- Did the Left Hand organise the ambush?
+- How and when does the Left Hand discover that his trusted subordinate used his name to build a corrupt power network?
+- Does the subordinate genuinely believe he is fulfilling the Left Hand's wishes, or has he begun serving his own ambitions?
 - Who is the Level 7 fighter, and what personal reason gives him the will to fight?
 - What exactly is the royal elixir, and why does the royal family possess it?
 - Can anyone else discover or recreate its effects?
