@@ -1,0 +1,247 @@
+# The Two Hands
+
+**Status:** Working storyline and setting test.
+
+This storyline is being developed alongside the world rules. It is useful for testing whether the political system, economy and martial power scale produce believable conflicts.
+
+## Core premise
+
+A King is served by two exceptionally powerful political figures: the **Left Hand** and the **Right Hand**.
+
+They are guardians and major pillars of the kingdom, each with their own followers, institutions and line of power. Neither necessarily begins with the intention of overthrowing the King.
+
+Over time, however, both accumulate power for their own reasons and agendas.
+
+The conflict begins less as open treason and more as **ego, rivalry, pride and competing ideas of loyalty**.
+
+### The Left Hand
+
+The Left Hand increasingly develops the attitude of a worker who believes the boss needs them more than they need the boss.
+
+Intelligence later suggests that the Left Hand has been accumulating power through corruption and hidden money.
+
+### The Right Hand
+
+The Right Hand believes he is superior precisely because he remains outwardly respectful to the King.
+
+He considers himself the King's favourite and frequently speaks or acts as though he represents the King's will, particularly when dealing with the Left Hand.
+
+He also possesses a secret source of extraordinary combat power, which he occasionally displays. These displays frighten and humiliate the Left Hand.
+
+Over time, the Right Hand comes to believe that the Left Hand has become completely corrupt and decides to arrest him.
+
+However, there is a problem: the Left Hand does not appear to display unexplained wealth.
+
+## Martial power scale used in this story
+
+The current working scale is **Level 1–9**, with Level 9 as the theoretical maximum.
+
+- **Level 7:** Historically recognised as top S-class territory; the level of legendary fighters who stand among the highest known martial figures.
+- **Level 6:** Elite.
+- **Level 5:** Warlord level — comparable to the exceptional generals and commanders seen in large-scale military conflicts.
+
+This story deliberately tests the rule that a higher-level fighter is not automatically invincible.
+
+## The ambush
+
+Before the Right Hand can act against the Left Hand, he and his young squire are ambushed.
+
+The Right Hand is separated from his squire.
+
+The attackers include:
+
+- **1 × Level 7 fighter**
+- **4 × Level 5 fighters**
+
+Hiring a Level 7 fighter is an extraordinary feat and suggests that someone has accumulated enormous resources and influence.
+
+### The Right Hand's first mistake
+
+The Right Hand initially considers running.
+
+Pride stops him.
+
+He believes he can defeat the Level 7 fighter in a single overwhelming exchange, then deal with the four Level 5 fighters and establish fear.
+
+The Level 7 fighter is a power-type combatant with exceptional willpower and a strong personal reason to win.
+
+In their first direct exchange, the Level 7 fighter breaks one of the Right Hand's arms.
+
+**Estimated remaining fighting capacity: 75%.**
+
+## The four Level 5 fighters
+
+The four Level 5 fighters attack tactically.
+
+The Right Hand loses the initiative and struggles to deal with all four simultaneously.
+
+To break out of the situation, he reveals another extraordinary burst of power and injures or drives them back.
+
+At this point, he genuinely intends to escape.
+
+## The second exchange
+
+The Level 7 fighter recovers enough to challenge him again.
+
+The Right Hand has little choice but to meet the attack head-on.
+
+In the second exchange, his leg is broken.
+
+**Estimated remaining fighting capacity: 50%.**
+
+The four Level 5 fighters resume their tactical attack.
+
+Now the Right Hand is in serious trouble.
+
+An important detail is that the attackers do not fully understand his true power:
+
+- The Level 7 fighter becomes suspicious of the strange bursts of power and chooses to rest and recover.
+- The four Level 5 fighters conclude that the Right Hand is not actually as powerful as his spectacular displays suggest.
+- In reality, the Right Hand is desperately trying to escape.
+
+When he appears to be at the end of his strength, he unleashes another extraordinary burst, badly injures the four Level 5 fighters, and escapes.
+
+He eventually reunites with his young squire.
+
+# The secret of the royal elixir
+
+On the verge of death, the Right Hand reveals his secret.
+
+As one of the King's closest hands, he knows that the royal family possesses a hidden elixir capable of bringing someone back from the edge of death.
+
+At some point in the past, he stole it.
+
+The Right Hand's natural martial ceiling is only around **Level 5–6**. He cannot naturally become stronger.
+
+The elixir gave him:
+
+- Renewed youth.
+- Access to chakra/internal power comparable to **Level 8**.
+- Only **three major uses or "shots"** of this extraordinary power.
+- A slow recovery period: regenerating the extraordinary power takes weeks or months.
+
+During the ambush, he uses the **fourth and final use**.
+
+This permanently empties the elixir's remaining power.
+
+## His regrets
+
+The Right Hand now understands that his pride created the disaster.
+
+He believes the better strategy would have been:
+
+1. Escape when he first recognised the danger.
+2. Recover.
+3. Face the attackers individually or under better conditions.
+
+He also regrets choosing to exchange direct blows with the Level 7 fighter.
+
+He wonders whether he should have eliminated or escaped from the weaker fighters first rather than allowing himself to become surrounded.
+
+His final defeat is therefore not simply a question of numbers or power levels.
+
+**His accumulated pride helped create the situation he could no longer escape.**
+
+## The truth about his rivalry with the Left Hand
+
+The Right Hand remembers that he and the Left Hand were not always enemies.
+
+His secret theft of the royal elixir left him feeling guilty.
+
+Part of his response to that guilt was to become an almost exaggerated defender of the royal family and the throne.
+
+He used his secret power to push the Left Hand down while publicly displaying absolute respect and loyalty to the King.
+
+In his own mind, this was partly a way of repaying the royal family for what he had stolen.
+
+He never realised how deeply the Left Hand had come to resent him.
+
+Now, dying, he believes that the Left Hand worked extraordinarily hard to have him killed.
+
+This remains an important unresolved question: **Was the Left Hand truly responsible, or is the Right Hand's interpretation incomplete?**
+
+# The last order
+
+The Right Hand gives his squire a final instruction:
+
+- Bury him.
+- Do not let anyone know that he died.
+- Pretend that nothing happened.
+- If the Left Hand attempts to absorb the Right Hand's followers and organisations, do not fight.
+- Allow it to happen.
+
+Only the young squire knows the full truth of what happened.
+
+The Left Hand, whatever his actual role in the ambush, has no reason to publicly reveal the truth.
+
+The Right Hand therefore disappears from history without an official explanation.
+
+After ensuring that the Right Hand's remaining people do not begin a war with the Left Hand, the squire leaves.
+
+## The squire's unfinished journey
+
+At first, the young squire seeks strength for one reason:
+
+**Revenge for the Right Hand.**
+
+But over time, that purpose begins to change.
+
+The Right Hand's final words, mistakes, secrets and regrets become part of the squire's education.
+
+The story asks whether becoming stronger means:
+
+- Gaining enough power to take revenge.
+- Understanding the truth behind the ambush.
+- Learning not to repeat the master's mistakes.
+- Or finding a purpose that makes revenge irrelevant.
+
+The ending and final direction remain open.
+
+---
+
+# Design observations and rules tested
+
+## 1. Level difference is not absolute
+
+This battle is designed to demonstrate that combat levels are meaningful but not a guarantee of victory.
+
+A Level 7 can decisively injure the Right Hand despite his hidden Level 8 bursts.
+
+Four Level 5 fighters become extremely dangerous once injury, positioning and loss of initiative reduce the Right Hand's effective ability.
+
+## 2. Extraordinary power has a cost
+
+The Right Hand cannot simply behave as a permanent Level 8 fighter.
+
+His secret power is limited, slow to regenerate and ultimately exhaustible.
+
+This prevents a hidden power-up from becoming an unlimited solution.
+
+## 3. Strategy matters
+
+The Right Hand's defeat is caused by a combination of:
+
+- Pride.
+- Tactical decisions.
+- Injury.
+- Being outnumbered.
+- Misunderstanding his opponents.
+- Overestimating what one overwhelming attack can solve.
+
+## 4. Political power requires resources
+
+The ambush demonstrates why money and corruption matter in this world.
+
+Hiring elite fighters, particularly a Level 7, is itself a major political and economic event.
+
+A conspiracy needs resources, networks and reasons — not merely a villain deciding to send stronger enemies.
+
+## Open development questions
+
+- Are Left Hand and Right Hand official titles, or informal names used by history?
+- What are their actual offices and responsibilities?
+- Did the Left Hand organise the ambush?
+- Who is the Level 7 fighter, and what personal reason gives him the will to fight?
+- What exactly is the royal elixir, and why does the royal family possess it?
+- Can anyone else discover or recreate its effects?
+- What does the squire eventually learn about the Left Hand and the King's court?
