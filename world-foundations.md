@@ -124,6 +124,8 @@ Both the term and saying are proposals, not settled terminology.
 
 The setting should avoid uncontrolled power escalation. A character does not need to become stronger than every previous character, and a new story does not need a bigger threat simply because an earlier story had a powerful fighter.
 
+A level is a broad indication of a fighter's overall capability, not a guaranteed result in every encounter. A lower-level fighter can still win by using a favourable style, choosing the conditions, exploiting a weakness, changing the rules of engagement, or making the higher-level opponent fight on unfamiliar terms. For example, a specialist might insist on a kick-only contest if that removes the opponent's strongest options. This does not make the two fighters equal in overall ability.
+
 **Working proposal**
 
 Even a legendary martial artist can be vulnerable to exhaustion, poison, surprise, weapons, numbers, age, injury, or circumstances outside their expertise. Skill matters, but it does not make someone invincible or competent at everything.
