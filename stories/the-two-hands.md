@@ -36,13 +36,14 @@ However, there is a problem: the Left Hand does not appear to display unexplaine
 
 ## Martial power scale used in this story
 
-The current working scale is **Level 1–9**, with Level 9 as the theoretical maximum.
+The current working scale is **Level 1–9**, but Level 9 remains undefined and should not be treated as a ready-made escalation target.
 
-- **Level 7:** Historically recognised as top S-class territory; the level of legendary fighters who stand among the highest known martial figures.
+- **Level 7:** The human ceiling; historically recognised as top S-class territory.
 - **Level 6:** Elite.
 - **Level 5:** Warlord level — comparable to the exceptional generals and commanders seen in large-scale military conflicts.
+- **Level 8:** Beyond the normal human ceiling and extraordinarily rare. A temporary burst with Level 8-like output is not automatically the same as true Level 8 capability.
 
-This story deliberately tests the rule that a higher-level fighter is not automatically invincible.
+The scale describes broad capability, not a guaranteed result. Style, tactics, numbers, terrain, injury and the rules of engagement can allow a lower-level fighter to win a particular encounter. This story deliberately tests that distinction.
 
 ## The ambush
 
@@ -120,13 +121,13 @@ The Right Hand's natural martial ceiling is only around **Level 5–6**. He cann
 The elixir gave him:
 
 - Renewed youth.
-- Access to chakra/internal power comparable to **Level 8**.
-- Only **three major uses or "shots"** of this extraordinary power.
+- Access to limited bursts of chakra/internal power with output comparable to **Level 8**.
+- A finite supply of extraordinary uses or "shots".
 - A slow recovery period: regenerating the extraordinary power takes weeks or months.
 
-During the ambush, he uses the **fourth and final use**.
+These bursts do not make him a true Level 8. He lacks the sustained control and effortless command associated with that level; his natural ability remains around Level 5–6, and he can still be outmanoeuvred or overwhelmed.
 
-This permanently empties the elixir's remaining power.
+During the ambush, he uses the **fourth and final use**, permanently exhausting the elixir's remaining power. The exact charge timeline still needs clarification: the notes mention three shots initially, slow regeneration, and a fourth/final use.
 
 ## His regrets
 
